@@ -1,47 +1,50 @@
-## markdown-only
+<h1 align="right"><a href="https://profile.aleen42.com">👋</a> Aloha</h1>
+<blockquote align="right"><h3>More than a coder, more than a designer.</h3></blockquote>
 
-> [**HERE**](https://aleen42.github.io/markdown-only/) you can check the site of this repo.
+[![JavaScript](https://badges.aleen42.com/src/javascript.svg)](https://github.com/aleen42/badges) [![gitbook](https://badges.aleen42.com/src/gitbook_2.svg)](https://github.com/aleen42/badges) [![IDEA](https://badges.aleen42.com/src/idea.svg)](https://github.com/aleen42/badges)
 
-This is a template repository to help you build sites with markdown files only and present them with GitHub styles on GitHub pages.
-
-To use this template:
-
-1. Just start to [**GENERATE**](https://github.com/aleen42/markdown-only/generate) it. (Notice: you can also use it on the repository page on GitHub.)
-2. Deploy the GitHub page inside the setting of your new repository.
-3. Feel free to write your first markdown file: **README.md**.
-
-### Examples
+My name is PuiMan Cheui, a.k.a [Aleen](https://github.com/aleen42), who is living in Guangzhou, Guangdong, China mainland. My major post focuses on front-end developing with around 6 years of experience. The current primary task in the open-source world is to build up my note, [**PersonalWiki**](http://github.com/aleen42/PersonalWiki), progressively during my spared time with [GitBook](https://github.com/GitbookIO/gitbook). At the same time, I maintain some GitBook tutorial plugins like [**gitbook-treeview**](https://github.com/aleen42/gitbook-treeview), [**gitbook-footer**](https://github.com/aleen42/gitbook-footer), [**gitbook-comments**](https://github.com/aleen42/gitbook-comments) (for integrating comments with GitLab and GitHub), [etc.](https://github.com/aleen42?tab=repositories&q=gitbook&type=&language=)
 
 <p align="center">
-<a href="https://mingtocat.aleen42.com" target="_blank"><img width="40%" src="./examples/mingtocat.aleen42.com_dark.png" alt="markdown-only" /></a> <a href="https://mingtocat.aleen42.com" target="_blank"><img width="40%" src="examples/mingtocat.aleen42.com_light.png" alt="markdown-only" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleen42&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=aleen42&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px" />
 </p>
 
-### Variables
+- 🔭 I'm currently working on [@Coremail](https://github.com/Coremail) *(a.k.a [@Mailtech](https://github.com/Mailtech), 2017 - Now)*. Previously on:
+  - @Soundtooth *(2015 - 2017)*
+  - @Monsoon *(2014 - Now)*
+- 🏸 I'm currently learning how to play badminton and swim better.
+- 🕹 Technical Stacks: JavaScript(TypeScript) + Babel + UglifyJS, Webpack, Gulp / Grunt, Less(Sass) + PostCss, core-js(shim), Handlebars, Karma / Jest, Puppeteer / Selenium, Eslint, [etc.](https://wiki.aleen42.com/Programming/JavaScript/JavaScript.html)
+- 🎮 Framework Experiences: React, Vue, Ionic + Angular 1.x, aralejs, [etc.](https://wiki.aleen42.com/Programming/JavaScript/Framework/Framework.html)
+- 😈 Compatibility Skill: DOWN to IE8! I have collected [some confusing problems](https://github.com/aleen42/PersonalWiki/issues/32), and [contributed](https://github.com/mdn/browser-compat-data/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed) to MDN at the same time.
+- 📫 Email me by [aleen42@vip.qq.com](mailto:aleen42@vip.qq.com).
+- ... (waiting for your exploring)
 
-Current supported configure variables of this theme:
+Recently, I have brought out some [TC39](https://github.com/tc39) proposals like [**proposal-object-pick-or-omit**](https://github.com/aleen42/proposal-object-pick-or-omit) and [**proposal-promise-uncaught**](https://github.com/aleen42/proposal-promise-uncaught). It should be my pleasure to invite you to focus and discuss it to help to step more forwards stage 1 in the committee.
 
-- **`color-mode`**: specify the light / dark mode you intent to use. (`dark` by default)
-- **`theme-color`**: specify the theme color meta. (`#1e2327` by default)
+<a href="https://mingtocat.aleen42.com" target="_blank"><img align="right" alt="mingtocat" title="mingtocat" src="http://mingtocat.aleen42.com/emperors/origin.png" width="40%" /></a>
 
-### FAQ
+During the process of becoming an advanced JavasScript developer, I also hope to explore my graphic techniques in the future like [**WebGL**](https://wiki.aleen42.com/Programming/JavaScript/webgl/webgl.html), [**GLSL**](https://wiki.aleen42.com/Programming/JavaScript/webgl/glsl/glsl.html). To step out, I have written a small thing, named "[**How to draw in JavaScript**](https://wiki.aleen42.com/post/how_to_draw/how_to_draw.html)", where we can use JavaScript to simulate drawing with given images.
 
-As we use jekyll to build sites, it should use [Rouge](https://github.com/rouge-ruby/rouge) to highlight syntax of code snippets and it is different from the highlighter of GitHub. It means that there should be various highlights of the same code like the following:
+As a coder, I also hope to be more than a designer at the same time, like creating "[**Mingtocat**](https://github.com/aleen42/mingtocat)", or "[**Kaleidoscope**](https://wiki.aleen42.com/post/kaleidoscope/kaleidoscope.html)".
 
-```js
-const data = function () { 
-    // ...
-    return {
-        'markdown-only': { key: 'value'},
-    };
-};
-```
+Finally, appreciate your viewing of my profile! You can follow me if my works are of interest.
 
-To try to eliminate the differences, I will update [the adapter](https://github.com/aleen42/github-syntax-theme-generator) according to some situations.
+Any questions? Please contact me via:
 
-### :fuelpump: How to contribute
+[![badges](https://badges.aleen42.com/src/telegram.svg)](https://t.me/aleen42) [![badges](https://badges.aleen42.com/src/wechat.svg)](./wechat.jpg) [![badges](https://badges.aleen42.com/src/reddit.svg)](https://www.reddit.com/user/aleen42)
 
-Have an idea? Found a bug? See [how to contribute](https://wiki.aleen42.com/contribution.html).
+At the same time, feel free to offer me a swimming chance by sponsoring me:
 
-### :scroll: License
+[![badges](https://badges.aleen42.com/src/paypal.svg)](http://paypal.me/aleen42) [![badges](https://badges.aleen42.com/src/patreon.svg)](https://www.patreon.com/aleen42) [![badges](https://badges.aleen42.com/src/buymeacoffee.svg)](https://www.buymeacoffee.com/aleen42)
 
-[MIT](https://wiki.aleen42.com/MIT.html) © aleen42
+## &nbsp;
+
+<details>
+  <summary>Recent Activities</summary>
+  <p align="center">
+    <a href="#"><img align="left" alt="aleen42" src="https://raw.githubusercontent.com/aleen42/aleen42/metrics/github-metrics-states.svg" width="46%" /></a>
+    <a href="https://github.com/aleen42?tab=stars" target="_blank"><img alt="aleen42" src="https://raw.githubusercontent.com/aleen42/aleen42/metrics/github-metrics-stars.svg" width="46%" /></a>
+  </p>
+</details>
+
