@@ -5,7 +5,7 @@
 
 My name is PuiMan Cheui, who is living in GuangZhou, China. My major post is focused on Front-end Developing with around 5 years of experience. The current primary task is to build up my note, [**PersonalWiki**](http://github.com/aleen42/PersonalWiki) progressly during my spared time with Gitbook. At the same time, I maintain some Gitbook tutorial plugins like [**gitbook-treeview**](https://github.com/aleen42/gitbook-treeview), [**gitbook-footer**](https://github.com/aleen42/gitbook-footer), [**gitbook-comments**](https://github.com/aleen42/gitbook-comments) (for integrating comments with Gitlab, or GitHub), [etc.](https://github.com/aleen42?tab=repositories&q=gitbook&type=&language=)
 
-<p align="right">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleen42&layout=compact&title_color=24292e&text_color=24292e&bg_color=fff" height="160px" />
 <img src="https://github-readme-stats.vercel.app/api?username=aleen42&title_color=24292e&text_color=24292e&icon_color=F7DF1E&bg_color=fff&show_icons=true" height="160px" />
 </p>
