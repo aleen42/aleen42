@@ -16,7 +16,7 @@ My name is PuiMan Cheui, who is living in GuangZhou, China. My major post is foc
 - 🎮 Frameworks Experience: React, Vue, Ionic + Angular 1.x, aralejs, [etc.](https://aleen42.github.io/PersonalWiki/Programming/JavaScript/Framework/Framework.html)
 - 📫 Email me by aleen42@vip.qq.com.
 
-<img align="right" alt="mingtocat" title="mingtocat" src="https://aleen42.github.io/mingtocat/emperors/original_suit.gif" width="40%" />
+<img align="right" alt="mingtocat" title="mingtocat" src="https://raw.githubusercontent.com/aleen42/mingtocat/master/emperors/origin.svg" width="40%" />
 
 During the process of becoming an advanced JavasScript developer, I hope to explore my graphic techniques in the future like **WebGL**, **GLSL**. In order to step out, I have written a small thing, named "[**How to draw in JavaScript**](https://aleen42.github.io/PersonalWiki/post/how_to_draw/how_to_draw.html)", where we can use JavaScript to simuate drawing with given images.
 
