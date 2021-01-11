@@ -1,0 +1,48 @@
+name: Metrics
+on:
+  # Schedule updates per day 0am
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  push: {branches: ["master", "main"]}
+  workflow_dispatch:
+jobs:
+  github-metrics-states:
+    runs-on: ubuntu-latest
+    steps:
+      # See action.yml for all options
+      - uses: lowlighter/metrics@master
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: "metrics"
+          base: "header" # Only show header
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14 # Max age for events, set to 0 for unlimited:
+          plugin_activity_filter: issue, pr, release, comment, member
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_animations: yes
+          config_order: "base.header, activity, isocalendar"
+          filename: "github-metrics-states.svg"
+  github-metrics-stars:
+    # Keep sequential
+    # https://github.com/lowlighter/metrics/issues/50#issuecomment-758468211
+    needs: [ github-metrics-states ]
+    runs-on: ubuntu-latest
+    steps:
+      # See action.yml for all options
+      - uses: lowlighter/metrics@master
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: "metrics"
+          base: "" # Show nothing
+          plugin_stars: yes
+          plugin_stars_limit: 7
+          config_animations: yes
+          filename: "github-metrics-stars.svg"

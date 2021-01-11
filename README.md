@@ -26,4 +26,11 @@ Finally, welcome to my profile! You can follow me if my works are of interest.
 
 Any question ? Please contact me via:
 
-[![badges](https://aleen42.github.io/badges/src/telegram.svg)](https://t.me/aleen42) [![badges](https://aleen42.github.io/badges/src/wechat.svg)](https://github.com/aleen42/aleen42/blob/master/wechat.jpg) [![badges](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/aleen42) 
+[![badges](https://aleen42.github.io/badges/src/telegram.svg)](https://t.me/aleen42) [![badges](https://aleen42.github.io/badges/src/wechat.svg)](https://github.com/aleen42/aleen42/blob/master/wechat.jpg) [![badges](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/aleen42)
+
+## &nbsp;
+
+<p align="center">
+    <a href="#"><img align="left" alt="aleen42" src="https://raw.githubusercontent.com/aleen42/aleen42/metrics/github-metrics-states.svg" width="46%" /></a>
+    <a href="https://github.com/aleen42?tab=stars" target="_blank"><img alt="aleen42" src="https://raw.githubusercontent.com/aleen42/aleen42/metrics/github-metrics-stars.svg" width="46%" /></a>
+</p>
