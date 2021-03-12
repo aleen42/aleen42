@@ -28,6 +28,10 @@ Any question ? Please contact me via:
 
 [![badges](https://aleen42.github.io/badges/src/telegram.svg)](https://t.me/aleen42) [![badges](https://aleen42.github.io/badges/src/wechat.svg)](https://github.com/aleen42/aleen42/blob/master/wechat.jpg) [![badges](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/aleen42)
 
+Welcome to become a sponsor of mine:
+
+[![badges](https://aleen42.github.io/badges/src/paypal.svg)](http://paypal.me/aleen42) [![badges](https://aleen42.github.io/badges/src/patreon.svg)](https://www.patreon.com/aleen42) [![badges](https://aleen42.github.io/badges/src/buymeacoffee.svg)](https://www.patreon.com/aleen42)
+
 ## &nbsp;
 
 <p align="center">
