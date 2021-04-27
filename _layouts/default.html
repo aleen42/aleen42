@@ -15,7 +15,8 @@
 <body>
 <div class="container-lg px-3 my-5 markdown-body">
     {% include header.html %}
-    {{ content }}
+    {% capture avatar %}{% include avatar.html %}<p>My name is{% endcapture %}
+    {{ content | replace : '<p>My name is', avatar }}
 </div>
 {% include footer.html %}
 </body>
