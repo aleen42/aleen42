@@ -13,7 +13,7 @@ My name is PuiMan Cheui, a.k.a [Aleen](https://github.com/aleen42), who is livin
 - 🔭 I'm currently working on [@Coremail](https://github.com/Coremail) *(a.k.a [@Mailtech](https://github.com/Mailtech), 2017 - Now)*. Previously on:
   - @Soundtooth *(2015 - 2017)*
   - @Monsoon *(2014 - Now)*
-- 🏸 I'm currently learning how to play badminton and swim better.
+- 🏸 I'm currently learning how to play badminton, play violin, and swim better.
 - 🕹 Technical Stacks: JavaScript(TypeScript) + Babel + UglifyJS, Webpack, Gulp / Grunt, Less(Sass) + PostCss, core-js(shim), Handlebars, Karma / Jest, Puppeteer / Selenium, Eslint, [etc.](https://wiki.aleen42.com/Programming/JavaScript/JavaScript.html)
 - 🎮 Framework Experiences: React, Vue, Ionic + Angular 1.x, aralejs, [etc.](https://wiki.aleen42.com/Programming/JavaScript/Framework/Framework.html)
 - 😈 Compatibility Skill: DOWN to IE8! I have collected [some confusing problems](https://github.com/aleen42/PersonalWiki/issues/32), and [contributed](https://github.com/mdn/browser-compat-data/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed) to MDN at the same time.
