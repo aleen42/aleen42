@@ -1017,13 +1017,10 @@
     color: #E7BD69;
   }
   .achievement.s .title {
-    color: #FF0000;
+    color: #EB355E;
   }
   .achievement.s .gauge.info {
-    color: #FF0000;
-  }
-  .achievement.s .icon {
-    filter: sepia() saturate(100);
+    color: #EB355E;
   }
   .achievement.secret .title{
     color: #FF76CD;
@@ -1213,7 +1210,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SVG-Edit/svgedit</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1255,7 +1252,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KaTeX/KaTeX</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1297,7 +1294,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>breejs/bree</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1339,7 +1336,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>aleen42/gitbook-search</span>
-                                            <span>starred 8 days ago</span>
+                                            <span>starred 9 days ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -1381,7 +1378,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>aleen42/state</span>
-                                            <span>starred 16 days ago</span>
+                                            <span>starred 17 days ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -1423,7 +1420,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>primer/primitives</span>
-                                            <span>starred 20 days ago</span>
+                                            <span>starred 21 days ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -1465,7 +1462,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>Tonejs/Midi</span>
-                                            <span>starred 22 days ago</span>
+                                            <span>starred 23 days ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
