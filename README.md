@@ -5,6 +5,14 @@
 
 My name is PuiMan Cheui, a.k.a [Aleen](https://github.com/aleen42), who is living in Guangzhou, Guangdong, China mainland. My major post focuses on front-end developing with around 6 years of experience. The current primary task in the open-source world is to build up my note, [**PersonalWiki**](http://github.com/aleen42/PersonalWiki), progressively during my spared time with [GitBook](https://github.com/GitbookIO/gitbook). At the same time, I maintain some GitBook tutorial plugins like [**gitbook-treeview**](https://github.com/aleen42/gitbook-treeview), [**gitbook-footer**](https://github.com/aleen42/gitbook-footer), [**gitbook-comments**](https://github.com/aleen42/gitbook-comments) (for integrating comments with GitLab and GitHub), [etc.](https://github.com/aleen42?tab=repositories&q=gitbook&type=&language=)
 
+Other contributions:
+
+- [mdn](https://github.com/mdn/browser-compat-data/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed)
+- [webpack](https://github.com/webpack/webpack/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed)
+- [core-js](https://github.com/zloirock/core-js/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed)
+- [vexflow](https://github.com/0xfe/vexflow/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed)
+- ...
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleen42&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
 <img src="https://github-readme-stats.vercel.app/api?username=aleen42&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px" />
@@ -16,7 +24,7 @@ My name is PuiMan Cheui, a.k.a [Aleen](https://github.com/aleen42), who is livin
 - 🏸 I'm currently learning how to play badminton, play violin, and swim better.
 - 🕹 Technical Stacks: JavaScript(TypeScript) + Babel + UglifyJS, Webpack, Gulp / Grunt, Less(Sass) + PostCss, core-js(shim), Handlebars, Karma / Jest, Puppeteer / Selenium, Eslint, [etc.](https://wiki.aleen42.com/Programming/JavaScript/JavaScript.html)
 - 🎮 Framework Experiences: React, Vue, Ionic + Angular 1.x, aralejs, [etc.](https://wiki.aleen42.com/Programming/JavaScript/Framework/Framework.html)
-- 😈 Compatibility Skill: DOWN to IE8! I have collected [some confusing problems](https://github.com/aleen42/PersonalWiki/issues/32), and [contributed](https://github.com/mdn/browser-compat-data/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed) to MDN at the same time.
+- 😈 Compatibility Skill: DOWN to IE8! I have collected [some confusing problems](https://github.com/aleen42/PersonalWiki/issues/32).
 - 📫 Email me by [aleen42@vip.qq.com](mailto:aleen42@vip.qq.com).
 - ... (waiting for your exploring)
 
