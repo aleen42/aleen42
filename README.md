@@ -5,8 +5,8 @@
 
 My name is PuiMan Cheui, a.k.a [Aleen](https://github.com/aleen42), who is living in Guangzhou, Guangdong, China mainland. My major post focuses on front-end developing with around 6 years of experience. The current primary task in the open-source world is to build up my note, [**PersonalWiki**](http://github.com/aleen42/PersonalWiki), progressively during my spared time with [GitBook](https://github.com/GitbookIO/gitbook). At the same time, I maintain some GitBook tutorial plugins like [**gitbook-treeview**](https://github.com/aleen42/gitbook-treeview), [**gitbook-footer**](https://github.com/aleen42/gitbook-footer), [**gitbook-comments**](https://github.com/aleen42/gitbook-comments) (for integrating comments with GitLab and GitHub), [etc.](https://github.com/aleen42?tab=repositories&q=gitbook&type=&language=)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleen42&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=aleen42&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleen42&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="140px" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aleen42&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="140px" />
 
 Other contributions:
 
