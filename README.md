@@ -5,7 +5,7 @@
 
 My name is PuiMan Cheui, a.k.a [Aleen](https://github.com/aleen42), who is living in Guangzhou, Guangdong, China mainland. My major post focuses on front-end developing with around 6 years of experience. The current primary task in the open-source world is to build up my note, [**PersonalWiki**](http://github.com/aleen42/PersonalWiki), progressively during my spared time with [GitBook](https://github.com/GitbookIO/gitbook). At the same time, I maintain some GitBook tutorial plugins like [**gitbook-treeview**](https://github.com/aleen42/gitbook-treeview), [**gitbook-footer**](https://github.com/aleen42/gitbook-footer), [**gitbook-comments**](https://github.com/aleen42/gitbook-comments) (for integrating comments with GitLab and GitHub), [etc.](https://github.com/aleen42?tab=repositories&q=gitbook&type=&language=)
 
-Other contributions: [git](https://github.com/git/git/commits?author=aleen42), [mdn](https://github.com/mdn/browser-compat-data/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [webpack](https://github.com/webpack/webpack/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [core-js](https://github.com/zloirock/core-js/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [vexflow](https://github.com/0xfe/vexflow/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), etc.
+Other contributions: [git](https://github.com/git/git/commits?author=aleen42), [mdn](https://github.com/mdn/browser-compat-data/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [webpack](https://github.com/webpack/webpack/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [core-js](https://github.com/zloirock/core-js/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [vexflow](https://github.com/0xfe/vexflow/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [etc](https://github.com/pulls?q=is%3Apr+author%3Aaleen42+archived%3Afalse+is%3Aclosed+is%3Amerged).
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleen42&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
@@ -51,4 +51,3 @@ At the same time, feel free to offer me a swimming chance by sponsoring me:
     <a href="https://github.com/aleen42?tab=stars" target="_blank"><img alt="aleen42" src="https://raw.githubusercontent.com/aleen42/aleen42/metrics/github-metrics-stars.svg" width="46%" /></a>
   </p>
 </details>
-
