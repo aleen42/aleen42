@@ -3,13 +3,13 @@
 
 [![JavaScript](https://badges.aleen42.com/src/javascript.svg)](https://github.com/aleen42/badges) [![gitbook](https://badges.aleen42.com/src/gitbook_2.svg)](https://github.com/aleen42/badges) [![IDEA](https://badges.aleen42.com/src/idea.svg)](https://github.com/aleen42/badges)
 
-My name is PuiMan Cheui, a.k.a [Aleen](https://github.com/aleen42), who is living in Guangzhou, Guangdong, China mainland. My major post focuses on front-end developing with around 6 years of experience. The current primary task in the open-source world is to build up my note, [**PersonalWiki**](http://github.com/aleen42/PersonalWiki), progressively during my spared time with [GitBook](https://github.com/GitbookIO/gitbook). At the same time, I maintain some GitBook tutorial plugins like [**gitbook-treeview**](https://github.com/aleen42/gitbook-treeview), [**gitbook-footer**](https://github.com/aleen42/gitbook-footer), [**gitbook-comments**](https://github.com/aleen42/gitbook-comments) (for integrating comments with GitLab and GitHub), [etc.](https://github.com/aleen42?tab=repositories&q=gitbook&type=&language=)
+My name is PuiMan Cheui, a.k.a [Aleen](https://github.com/aleen42), who is living in Guangzhou, Guangdong, China mainland. My major post has focused on the front-end developing with around *7 YEARS* of experience since 2015. The current primary task in the open-source world is to build up my note, [**PersonalWiki**](http://github.com/aleen42/PersonalWiki), progressively during my spared time with [GitBook](https://github.com/GitbookIO/gitbook). At the same time, I maintain some GitBook tutorial plugins like [**gitbook-treeview**](https://github.com/aleen42/gitbook-treeview), [**gitbook-footer**](https://github.com/aleen42/gitbook-footer), [**gitbook-comments**](https://github.com/aleen42/gitbook-comments) (for integrating comments with GitLab and GitHub), [etc.](https://github.com/aleen42?tab=repositories&q=gitbook&type=&language=)
 
 Other contributions: [git](https://github.com/git/git/commits?author=aleen42), [mdn](https://github.com/mdn/browser-compat-data/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [webpack](https://github.com/webpack/webpack/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [core-js](https://github.com/zloirock/core-js/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [vexflow](https://github.com/0xfe/vexflow/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [etc](https://github.com/pulls?q=is%3Apr+author%3Aaleen42+archived%3Afalse+is%3Aclosed+is%3Amerged).
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleen42&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api?username=aleen42&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleen42&layout=compact&title_color=58a6ff&text_color=999&bg_color=ffffff00" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=aleen42&title_color=58a6ff&text_color=999&icon_color=F7DF1E&bg_color=ffffff00&show_icons=true" height="160px" />
 </p>
 
 Somethings you may want know about me:
