@@ -37,3 +37,16 @@
     opacity: 1;
   }
 }
+
+@media (min-width: 540px) {
+  .github-avatar {
+    float: right;
+    margin: 0 0 10px 10px;
+  }
+}
+
+@media (max-width: 540px) {
+  img[width] {
+    width: 100%;
+  }
+}
