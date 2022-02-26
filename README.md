@@ -7,11 +7,6 @@ My name is PuiMan Cheui, a.k.a [Aleen](https://github.com/aleen42), and living i
 
 Other contributions: [git](https://github.com/git/git/commits?author=aleen42), [mdn](https://github.com/mdn/browser-compat-data/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [webpack](https://github.com/webpack/webpack/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [core-js](https://github.com/zloirock/core-js/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [vexflow](https://github.com/0xfe/vexflow/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [etc](https://github.com/pulls?q=is%3Apr+author%3Aaleen42+archived%3Afalse+is%3Aclosed+is%3Amerged).
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleen42&layout=compact&title_color=58a6ff&text_color=999&bg_color=ffffff00" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api?username=aleen42&title_color=58a6ff&text_color=999&icon_color=F7DF1E&bg_color=ffffff00&show_icons=true" height="160px" />
-</p>
-
 Some things you may want to know about me:
 
 - 🔭 I'm currently working on [@Coremail](https://github.com/Coremail) *(a.k.a [@Mailtech](https://github.com/Mailtech), 2017 - Now)*. Previously on:
@@ -23,6 +18,11 @@ Some things you may want to know about me:
 - 😈 Compatibility Skill: DOWN to IE8! I have collected [some confusing problems](https://github.com/aleen42/PersonalWiki/issues/32).
 - 📫 Email me by [aleen42@vip.qq.com](mailto:aleen42@vip.qq.com).
 - ... (waiting for your exploring)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleen42&layout=compact&title_color=58a6ff&text_color=999&bg_color=ffffff00" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=aleen42&title_color=58a6ff&text_color=999&icon_color=F7DF1E&bg_color=ffffff00&show_icons=true" height="160px" />
+</p>
 
 Recently, I have brought out some [TC39](https://github.com/tc39) proposals like [**proposal-object-pick-or-omit**](https://github.com/aleen42/proposal-object-pick-or-omit) and [**proposal-promise-uncaught**](https://github.com/aleen42/proposal-promise-uncaught). It should be my pleasure to invite you to focus on and discuss it to help step more in stage 1 in the committee.
 
