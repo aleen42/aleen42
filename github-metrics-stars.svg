@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SeleniumHQ/selenium</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A browser automation framework and ecosystem.</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>karma-runner/karma-webdriver-launcher</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A plugin for Karma. Launch any browser with WebDriver.</div>
@@ -182,7 +182,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mo/abortcontroller-polyfill</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Polyfill for the AbortController DOM API and abortable fetch (stub that calls catch, doesn't actually abort request).</div>
