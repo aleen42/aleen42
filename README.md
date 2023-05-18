@@ -5,6 +5,8 @@
 
 My name is PuiMan Cheui, a.k.a [Aleen](https://github.com/aleen42), and living in Guangzhou, Guangdong, China mainland. My major post has focused on front-end development with around *7 YEARS* of experience since 2015. The current primary task in the open-source world is to build up my note, [**PersonalWiki**](http://github.com/aleen42/PersonalWiki), progressively during my spare time with [GitBook](https://github.com/GitbookIO/gitbook). At the same time, I maintain some GitBook tutorial plugins like [**gitbook-treeview**](https://github.com/aleen42/gitbook-treeview), [**gitbook-footer**](https://github.com/aleen42/gitbook-footer), [**gitbook-comments**](https://github.com/aleen42/gitbook-comments) (for integrating comments with GitLab and GitHub), [etc.](https://github.com/aleen42?tab=repositories&q=gitbook&type=&language=)
 
+Recently I focused on complicated features of WYSIWYG editors like format painting, table cells merging, splitting, more modern designed UI / UXs, Chinese formatted counter styled lists, resizable tables, and so on.
+
 Other contributions: [git](https://github.com/git/git/commits?author=aleen42), [mdn](https://github.com/mdn/browser-compat-data/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [webpack](https://github.com/webpack/webpack/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [core-js](https://github.com/zloirock/core-js/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [vexflow](https://github.com/0xfe/vexflow/pulls?q=is%3Apr+author%3Aaleen42+is%3Aclosed), [etc](https://github.com/pulls?q=is%3Apr+author%3Aaleen42+archived%3Afalse+is%3Aclosed+is%3Amerged).
 
 Some things you may want to know about me:
