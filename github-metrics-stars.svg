@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stylelint/stylelint</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A mighty CSS linter that helps you avoid errors and enforce conventions.</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>postcss/postcss-nested</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PostCSS plugin to unwrap nested rules like how Sass does it.</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>toomuchdesign/postcss-nested-ancestors</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👩‍👧‍👦 PostCSS plugin to reference any parent/ancestor selector in nested CSS.</div>
@@ -182,7 +182,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fengyuanchen/datepicker</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚠️ [Deprecated] No longer maintained. A simple jQuery datepicker plugin.</div>
@@ -235,7 +235,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mahkhaled/jQuery-Arabic-Datepicker</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">jQuery Datepicker supports many languages. I am adding here the localization file for Arabic/Egypt and suggest a little styling update.</div>
@@ -282,7 +282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vkalinichev/postcss-rtl</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PostCSS plugin for RTL-adaptivity</div>
