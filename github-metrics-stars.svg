@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dr5hn/countries-states-cities-database</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌍 Discover our global repository of countries, states, and cities!  🏙️ Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nitotm/efficient-language-detector-js</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and accurate natural language detection. Detector written in Javascript. Nito-ELD, ELD.</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google-research/t5x</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -183,7 +183,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google-research/text-to-text-transfer-transformer</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"</div>
@@ -236,7 +236,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenNMT/CTranslate2</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast inference engine for Transformer models</div>
@@ -289,7 +289,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>terser/html-minifier-terser</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Aug 09 2024</span>
                                     </div>
                                 </div>
                                 <div class="field description">actively maintained fork of html-minifier - minify HTML, CSS and JS code using terser - supports ES6 code</div>
@@ -323,7 +323,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        98
+                                        99
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -342,7 +342,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kangax/html-minifier</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Aug 09 2024</span>
                                     </div>
                                 </div>
                                 <div class="field description">Javascript-based HTML compressor/minifier (with Node.js support)</div>
